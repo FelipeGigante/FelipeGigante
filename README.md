@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Dart (Flutter), C# (Asp.Net), JavaScript (Node.JS))**
 
-- 📝 I regularly write articles on [Medium (https://medium.com/@lipe.gigante2004)](Medium (https://medium.com/@lipe.gigante2004))
+- 📝 I regularly write articles on [https://medium.com/@lipe.gigante2004](Medium (https://medium.com/@lipe.gigante2004))
 
 - 📫 How to reach me **lipe.gigante2004@gmail.com**
 
