@@ -1,17 +1,55 @@
-<h1 align="center">Hi 👋, I'm Felipe Gigante :D</h1>
-<h3 align="center">I am a Computer Enthusiast</h3>
+<h1 align="center">Hi 👋, I'm Felipe Gigante 😄</h1>
+<h3 align="center">Software Engineer | AI Explorer | Tech Builder</h3>
 
-- 🌱 I’m currently learning **Dart (Flutter), C# (Asp.Net), JavaScript (Node.JS))**
+<p align="center">
+  <img src="https://img.shields.io/badge/Learning%20In-Public-%23F7DF1E?style=for-the-badge&logo=OpenAI&logoColor=black" alt="Learning in Public Badge"/>
+</p>
 
-- 📝 I regularly write articles on [https://medium.com/@lipe.gigante2004](Medium (https://medium.com/@lipe.gigante2004))
+- 👨‍💻 I'm currently a **Junior Software Engineer at Itaú**, working on **Generative AI solutions**  
+- 🎓 Studying **Information Systems at USP (EACH)**  
+- 🚀 Passionate about **Python, AI, RAG, and building real-world solutions**  
+- 🧠 Exploring topics like **vector databases, embeddings, agents, and prompt engineering**  
+- 🏗️ Co-founder of **Wevo**, a tech company helping businesses grow digitally  
+- ✍️ Sharing insights on tech, investing, and learning in public via [Threads](https://www.threads.net/@felipegigante) and [Medium](https://medium.com/@lipe.gigante2004)  
+- 📚 Currently diving deeper into **Python, Docker, AWS, CI/CD, Applied AI, and Data Structures**  
+- 🎯 Big dreams, grounded execution  
 
-- 📫 How to reach me **lipe.gigante2004@gmail.com**
+- 📫 Reach me at: **lipe.gigante2004@gmail.com**
 
-- ⚡ Fun fact **I Love Zap...**
+- ⚡ Fun fact: **I love Cuscuz and puns with my last name 😅**
 
+---
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://azure.microsoft.com/en-in/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> </p>
+### 🛠️ Tech Stack & Tools
 
+[![My Skills](https://skillicons.dev/icons?i=aws,python,cs,git,terraform,docker,notion,supabase)](https://skillicons.dev)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=felipegigante&show_icons=true&locale=en" alt="felipegigante" /></p>
+---
+
+### ⏳ Learning Timeline
+
+| Year | Milestone                                   | Tech / Topics                        |
+|------|---------------------------------------------|--------------------------------------|
+| 2019 | Started technical high school               | First steps with **C#** and logic    |
+| 2020 | School projects and desktop applications    | C#, WinForms, basic databases        |
+| 2021 | Web foundations and final year project      | HTML, CSS, JS, Git                   |
+| 2022 | Automation and backend curiosity            | Python, APIs, scripting, SQL         |
+| 2024 | Joined USP – Information Systems            | Data Structures, Calculus, OOP       |
+| 2024 | Internship at Itaú + founded Wevo           | Python (advanced), AI, RAG, Docker   |
+| 2025 | Deep dive into AI Engineering and DevOps    | AWS, CI/CD, Agents, OpenAI, Notion API|
+
+---
+
+### 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=felipegigante&show_icons=true&theme=default" alt="felipegigante" />
+</p>
+
+---
+
+### 🔗 Let's Connect!
+
+- [Threads](https://www.threads.net/@felipegigante)  
+- [Medium](https://medium.com/@lipe.gigante2004)  
+- [LinkedIn](https://www.linkedin.com/in/felipegigante) 
