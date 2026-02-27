@@ -14,8 +14,6 @@
 - 📚 Currently diving deeper into **Python, Docker, AWS, CI/CD, Applied AI, and Data Structures**  
 - 🎯 Big dreams, grounded execution  
 
-- 📫 Reach me at: **lipe.gigante2004@gmail.com**
-
 - ⚡ Fun fact: **I love Cuscuz and puns with my last name 😅**
 
 ---
